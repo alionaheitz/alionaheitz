@@ -16,12 +16,12 @@ Learnings: Building recommendation systems and deploying applications
 ### 🫧Projects
 #### Waze Churn Analysis
 - Enhanced feature engagement metrics by 25%, improving user retention and satisfaction.
-- Developed skills in data cleaning, exploratory analysis, machine learning modeling, and strategic decision-making, contributing to the overall effectiveness of retention strategies.
+- Utilized data cleaning, EDA, machine learning modeling, and strategic decision-making, contributing to the overall effectiveness of retention strategies.
 
 
 #### Autonomous Robot Path Finder 
 - Prototyped a robot design with LIDAR sensors and path finding abilities relying on commands in C++, and vector calculations to find an ideal path towards the next four targets.
-- Designed and printed mount supports in SolidWorks in three weeks, used the Raspberry Pi library for the location finding algorithm, and used the MQTT server tool to retrieve data.
+- Designed and printed mount supports in SolidWorks in three weeks, used the Raspberry Pi library for the location finding algorithm, and retrieved data through  the MQTT server.
 
 ---
 
