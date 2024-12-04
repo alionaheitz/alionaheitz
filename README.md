@@ -62,6 +62,6 @@ Jupyter Notebooks, Google Colab, Git, GitHub, Excel
 
 ### 🪻 Fun Fact
 
-If you don't see me practicing tennis with my team or go to the gym, I am probably skiing
+If you don't see me playinh tennis or hitting the gym with my team, I am probably skiing
 
 ---
