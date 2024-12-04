@@ -48,7 +48,7 @@ Jupyter Notebooks, Google Colab, Git, GitHub, Excel
  
 ---
 ### 🫧Other involvements
-####  System Design lead of  Stevens' ROCKSAT-C team whose mission is to send a payload to atmosphere next summer with NASA. My role in the team is to write system and user testings and perform integration of the software with the hardware on this project. 
+####  System Design lead of  Stevens' ROCKSAT-C team whose mission is to send a payload to atmosphere next summer with NASA. My role in the team is to write system and user testings and work on the integration of the software with the hardware on this project. 
 ---
 ### 🫧Contact Me!
 - **Email:** [aliona.heitz@gmail.com](mailto:aliona.heitz@gmail.com)
