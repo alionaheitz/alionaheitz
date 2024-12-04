@@ -1,7 +1,7 @@
 # Hi, I'm Aliona!
 
-🏵**Junior** at Stevens Institute of Technology
-🏵**Industrial and Systems Engineering** major, with a minor in Computer Engineering 
+- 🏵**Junior** at Stevens Institute of Technology
+- 🏵**Industrial and Systems Engineering** major, with a minor in Computer Engineering 
 
 ### **About me:** learn about my engineering toolkit
 From data analysis, passing to system design requirements, machine learning, and operation research to embedded systems engineering, I am learning interdisciplinary skills that help me become a well-rounded engineer. I aspire to solve real-world engineering problems with machine learning while meeting big-picture needs.
