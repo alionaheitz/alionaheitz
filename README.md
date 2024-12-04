@@ -24,6 +24,8 @@ Learnings: Building recommendation systems and deploying applications
 - Designed and printed mount supports in SolidWorks in three weeks, used the Raspberry Pi library for the location finding algorithm, and used the MQTT server tool to retrieve data.
 
 ---
+### Other Engagements
+System Design lead in Stevens' ROCKSAT-C whose mission is to send a payload to atmosphere next summer on NASA grounds. My role in the team is to write system and user testings and perform integration of the software with the hardware on this project. 
 
 ### Tech Stack
 
@@ -56,6 +58,6 @@ Jupyter Notebooks, Google Colab, Git, GitHub, Excel
 
 ### 🔅 Fun Fact
 
-If you don't see me practicing tennis with my team or go to the gym, I am probably skiing :)
+If you don't see me practicing tennis with my team or go to the gym, I am probably skiing
 
 ---
