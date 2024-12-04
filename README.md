@@ -52,7 +52,7 @@ Jupyter Notebooks, Google Colab, Git, GitHub, Excel
 ---
 ### Contact Me!
 - **Email:** [aliona.heitz@gmail.com](mailto:aliona.heitz@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aliona-h/)
+- **LinkedIn:** [linkedin.com/in/aliona](https://www.linkedin.com/in/aliona-h/)
 
 ---
 
