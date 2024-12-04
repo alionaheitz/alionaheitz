@@ -1,19 +1,19 @@
 # Hi, I'm Aliona!
 
-🏵**Junior** at Stevens Institute of Technology  
-🏵**Industrial and Systems Engineering** major, with a minor in Computer Engineering 
+🪻**Junior** at Stevens Institute of Technology  
+🪻**Industrial and Systems Engineering** major, with a minor in Computer Engineering 
 
 From data analysis, passing to system design requirements, machine learning, and operation research to embedded systems engineering, I am learning interdisciplinary skills that help me become a well-rounded engineer. I aspire to solve real-world engineering problems with machine learning while meeting big-picture needs.
 
 ---
 
-### 🔅Featured : Break Through Tech AI Maintenance Assistant Project @ DXC Technology
+### 🫐Featured : Break Through Tech AI Maintenance Assistant Project @ DXC Technology
 - Developed the "Maintenance Assistant," an AI-powered tool to assist humans in manufacturing plants. Is aimed to enhance efficiency, reduce downtime, and improve quality and performance onsite. The model follows RAG methodology. 
 Tools: Python, JavaScript, HTML, CSS, Scikitlearn, Pandas, Ollama, NLTK, Google CoLab, ChatterBot
 Learnings: Building recommendation systems and deploying applications
 
 
-### 🔅Projects
+### 🪀Projects
 #### Waze Churn Analysis
 - Enhanced feature engagement metrics by 25%, improving user retention and satisfaction.
 - Developed skills in data cleaning, exploratory analysis, machine learning modeling, and strategic decision-making, contributing to the overall effectiveness of retention strategies.
@@ -25,7 +25,7 @@ Learnings: Building recommendation systems and deploying applications
 
 ---
 
-### Tech Stack
+### 🌚Tech Stack
 
 <details>
 <summary><b>My Top Languages</b></summary>
@@ -47,7 +47,7 @@ Jupyter Notebooks, Google Colab, Git, GitHub, Excel
 </details>
  
 ---
-#### Other involvements
+### ☂️Other involvements
 ####  System Design lead of  Stevens' ROCKSAT-C team whose mission is to send a payload to atmosphere next summer with NASA. My role in the team is to write system and user testings and perform integration of the software with the hardware on this project. 
 ---
 ### Contact Me!
@@ -56,7 +56,7 @@ Jupyter Notebooks, Google Colab, Git, GitHub, Excel
 
 ---
 
-### 🔅 Fun Fact
+### 👾 Fun Fact
 
 If you don't see me practicing tennis with my team or go to the gym, I am probably skiing
 
